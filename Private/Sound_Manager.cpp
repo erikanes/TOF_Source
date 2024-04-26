@@ -101,8 +101,6 @@ HRESULT CSound_Manager::Load_AudioClips(const string& _strFilePath)
 			auto fVolume = it.value()["volume"].get<_float>();
 			auto bIsLoop = it.value()["loop"].get<_bool>();
 
-			Add_AudioClip(strAudioFilePath, strTag, eClipType, fVolume, bIsLoop);
-
 			if (FAILED(Add_AudioClip(strAudioFilePath, strTag, eClipType, fVolume, bIsLoop)))
 				return E_FAIL;
 		}
