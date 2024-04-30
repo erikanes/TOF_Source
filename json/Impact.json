@@ -1,0 +1,144 @@
+{
+    "Generic":
+    {
+        "Shield_Broken":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Generic/Default_25.mp3",
+            "volume": 1.0,
+            "type": 1,
+            "loop": false
+        },
+
+        "Weapon_Impact_Steel_1":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Generic/Impact_468.mp3",
+            "volume": 0.35,
+            "type": 1,
+            "loop": false
+        },
+
+        "Weapon_Impact_Steel_2":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Generic/Impact_484.mp3",
+            "volume": 0.35,
+            "type": 1,
+            "loop": false
+        }
+    },
+
+    "Sickle":
+    {   
+        "Sickle_Impact_1":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Sickle/Impact_444.mp3",
+            "volume": 0.4,
+            "type": 1,
+            "loop": false
+        },
+
+        "Sickle_Impact_2":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Sickle/Impact_446.mp3",
+            "volume": 0.4,
+            "type": 1,
+            "loop": false
+        }
+    },
+
+    "Dualgun":
+    {
+        "Dualgun_Impact_1":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Dualgun/Impact_228.mp3",
+            "volume": 0.45,
+            "type": 1,
+            "loop": false
+        },
+
+        "Dualgun_Impact_2":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Dualgun/Impact_237.mp3",
+            "volume": 0.45,
+            "type": 1,
+            "loop": false
+        },
+
+        "Dualgun_Impact_3":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Dualgun/Impact_241.mp3",
+            "volume": 0.45,
+            "type": 1,
+            "loop": false
+        }
+    },
+
+    "Shotgun":
+    {
+        "Shotgun_Impact_1":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Shotgun/Impact_220.mp3",
+            "volume": 0.4,
+            "type": 1,
+            "loop": false
+        },
+
+        "Shotgun_Impact_2":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Shotgun/Impact_221.mp3",
+            "volume": 0.4,
+            "type": 1,
+            "loop": false
+        },
+
+        "Shotgun_Impact_3":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Shotgun/Impact_222.mp3",
+            "volume": 0.4,
+            "type": 1,
+            "loop": false
+        },
+
+        "Shotgun_Impact_4":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Shotgun/Impact_229.mp3",
+            "volume": 0.4,
+            "type": 1,
+            "loop": false
+        },
+
+        "Shotgun_Impact_5":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Shotgun/Impact_230.mp3",
+            "volume": 0.4,
+            "type": 1,
+            "loop": false
+        }
+    },
+
+    "Sword":
+    {
+        "Sword_Impact_1":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Sword/Impact_453.mp3",
+            "volume": 0.5,
+            "type": 1,
+            "loop": false
+        },
+
+        "Sword_Impact_2":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Sword/Impact_455.mp3",
+            "volume": 0.5,
+            "type": 1,
+            "loop": false
+        },
+
+        "Sword_Impact_3":
+        {
+            "path": "../Bin/Resources/Audios/SFX/Impact/Sword/Impact_457.mp3",
+            "volume": 0.5,
+            "type": 1,
+            "loop": false
+        }
+    }
+}

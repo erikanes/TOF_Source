@@ -1,0 +1,1929 @@
+{
+    "char_2gun_aim_attack": {
+        "5": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_3",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_4",
+                "dimension": 0
+            }
+        }
+    },
+    "char_2gun_receive_show": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Idle_Begin",
+                "dimension": 0
+            }
+        }
+    },
+    "char_2gun_skill_001": {
+        "8": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_1",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "18": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_2",
+                "dimension": 0
+            },
+            "1": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "20": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_2gun_skill_002": {
+        "3": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_Deco_1",
+                "dimension": 0
+            }
+        },
+        "15": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "16": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_1",
+                "dimension": 0
+            }
+        },
+        "17": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_2gun_skill_003": {
+        "3": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_6",
+                "dimension": 0
+            },
+            "1": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "5": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "14": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "16": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "23": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "25": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "30": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "31": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "38": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "39": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "47": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "48": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_2gun_skill_004": {
+        "3": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_7",
+                "dimension": 0
+            },
+            "1": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "13": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "20": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "22": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "29": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "32": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "39": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "50": {
+            "0": {
+                "type": 5,
+                "customeventtag": "Dual_Gun_Normal_Bullet",
+                "customeventindex": 0
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_End_1",
+                "dimension": 0
+            }
+        }
+    },
+    "char_2gun_skill_005": {
+        "13": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_Begin_7",
+                "dimension": 0
+            }
+        },
+        "51": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "52": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_10",
+                "dimension": 0
+            }
+        },
+        "55": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_2gun_skill_006a": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_Begin_3",
+                "dimension": 0
+            }
+        },
+        "39": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_End_1",
+                "dimension": 0
+            }
+        }
+    },
+    "char_2gun_skill_007a_air": {
+        "10": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_Begin_4",
+                "dimension": 0
+            }
+        }
+    },
+    "char_2gun_skill_007c": {
+        "6": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_End_2",
+                "dimension": 0
+            }
+        },
+        "7": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_2gun_skill_009b": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_8",
+                "dimension": 0
+            }
+        }
+    },
+    "char_2gun_skill_010": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_Begin_1",
+                "dimension": 0
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_Begin_2",
+                "dimension": 0
+            }
+        },
+        "41": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_10",
+                "dimension": 0
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_11",
+                "dimension": 0
+            }
+        }
+    },
+    "char_2gun_skill_011": {
+        "2": {
+            "0": {
+                "type": 1,
+                "audiotag": "Dualgun_Attack_12",
+                "dimension": 0
+            }
+        }
+    },
+    "char_gun_receive_show": {
+        "40": {
+            "0": {
+                "type": 1,
+                "audiotag": "Shotgun_ReceiveShow",
+                "dimension": 0
+            }
+        }
+    },
+    "char_gun_skill_002": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Shotgun_JumpAttack_2",
+                "dimension": 0
+            }
+        }
+    },
+    "char_gun_skill_003": {
+        "25": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "32": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "50": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "57": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "86": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "91": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_005": {
+        "7": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Shotgun_JumpAttack_1",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_006": {
+        "7": {
+            "0": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_8",
+                "dimension": 0
+            }
+        },
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "12": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "21": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "24": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "36": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "39": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_airattack": {
+        "3": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_melee1": {
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_1",
+                "dimension": 0
+            }
+        },
+        "13": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_melee2": {
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_2",
+                "dimension": 0
+            }
+        },
+        "16": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "23": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "26": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_melee3": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_3",
+                "dimension": 0
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_Deco_1",
+                "dimension": 0
+            }
+        },
+        "36": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "40": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_melee4": {
+        "27": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_4",
+                "dimension": 0
+            }
+        },
+        "33": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "42": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "46": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "58": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "61": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_melee5": {
+        "20": {
+            "0": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_5",
+                "dimension": 0
+            }
+        },
+        "21": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "26": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_gun_skill_skill": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Shotgun_Attack_9",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "13": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "19": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "21": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "27": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "30": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "35": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "39": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "44": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "47": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "51": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "54": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "59": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "62": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "66": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "69": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_receive_show": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_519",
+                "dimension": 0
+            }
+        }
+    },
+    "char_sickle_skill_001": {
+        "8": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_508",
+                "dimension": 0
+            }
+        },
+        "15": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "17": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_002": {
+        "6": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_504",
+                "dimension": 0
+            }
+        },
+        "8": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_003": {
+        "9": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_502",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "18": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "20": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "28": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "30": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "39": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_004": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_523",
+                "dimension": 0
+            }
+        },
+        "36": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "38": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "48": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "51": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_005": {
+        "5": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_504",
+                "dimension": 0
+            }
+        },
+        "8": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_006": {
+        "17": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_494",
+                "dimension": 0
+            }
+        },
+        "20": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "29": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "31": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "36": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_007": {
+        "31": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "34": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_009c": {
+        "6": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "8": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_011a": {
+        "4": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_508",
+                "dimension": 0
+            }
+        },
+        "7": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "21": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_508",
+                "dimension": 0
+            }
+        },
+        "25": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "28": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_011b": {
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Wpn_508",
+                "dimension": 0
+            }
+        },
+        "13": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "36": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_504",
+                "dimension": 0
+            }
+        },
+        "37": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "40": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_011c": {
+        "9": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_485",
+                "dimension": 0
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "14": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "25": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "29": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "36": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "39": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "49": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "52": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "65": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "68": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_011d": {
+        "7": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Wpn_484",
+                "dimension": 0
+            }
+        },
+        "16": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "18": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "25": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "28": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "33": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "35": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "41": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "43": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "55": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "59": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "72": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        },
+        "75": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "83": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_011e_1": {
+        "12": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_504",
+                "dimension": 0
+            }
+        }
+    },
+    "char_sickle_skill_011e_3": {
+        "4": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Wpn_482",
+                "dimension": 0
+            }
+        },
+        "7": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_sickle_skill_015_New": {
+        "0": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_492",
+                "dimension": 0
+            }
+        },
+        "83": {
+            "0": {
+                "type": 1,
+                "audiotag": "Wpn_505",
+                "dimension": 0
+            }
+        }
+    },
+    "char_linghan_receive_show": {
+        "34": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_ReceiveShow",
+                "dimension": 0
+            }
+        }
+    },
+    "char_linghan_skill_001": {
+        "6": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_1",
+                "dimension": 0
+            }
+        },
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_002": {
+        "7": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_2",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "13": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_003": {
+        "5": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_3",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            }
+        },
+        "20": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_004": {
+        "8": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_4",
+                "dimension": 0
+            }
+        },
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_005": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_5",
+                "dimension": 0
+            }
+        },
+        "15": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "56": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_005_1": {
+        "2": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_6",
+                "dimension": 0
+            }
+        },
+        "18": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "21": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "88": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_End_1",
+                "dimension": 0
+            }
+        }
+    },
+    "char_linghan_skill_007": {
+        "3": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_7",
+                "dimension": 0
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "13": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "29": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "31": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_007_sea": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_7",
+                "dimension": 0
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "13": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        },
+        "29": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "31": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_009": {
+        "6": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_1",
+                "dimension": 0
+            }
+        },
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "11": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_010": {
+        "8": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_2",
+                "dimension": 0
+            }
+        },
+        "10": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "12": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_011": {
+        "5": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 1
+            },
+            "1": {
+                "type": 1,
+                "audiotag": "Sword_Attack_3",
+                "dimension": 0
+            }
+        },
+        "20": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_012": {
+        "7": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_4",
+                "dimension": 0
+            }
+        },
+        "9": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "12": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_013": {
+        "5": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_5",
+                "dimension": 0
+            }
+        },
+        "14": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "45": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_013_1": {
+        "5": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_6",
+                "dimension": 0
+            }
+        },
+        "18": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 1
+            }
+        },
+        "22": {
+            "0": {
+                "type": 2,
+                "collisiontag": "Melee_Area_OBB",
+                "operation": 0
+            }
+        }
+    },
+    "char_linghan_skill_015": {
+        "9": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_Skill_1",
+                "dimension": 0
+            }
+        },
+        "64": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_Skill_2",
+                "dimension": 0
+            }
+        },
+        "125": {
+            "0": {
+                "type": 1,
+                "audiotag": "Sword_Attack_Skill_3",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_jump_air": {
+        "3": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Jump_7",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_jump_downcommon": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Jump_End_2",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_jump_downlow": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Jump_End_2",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_jump_downlowrun": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Jump_End_2",
+                "dimension": 0
+            }
+        },
+        "21": {
+            "0": {
+                "type": 1,
+                "audiotag": "Plyer_Footstep_6",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_jump_fallsprint": {
+        "3": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Jump_End_2",
+                "dimension": 0
+            }
+        },
+        "22": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_6",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_jump_forward_l": {
+        "4": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Jump_8",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_jump_situ": {
+        "4": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Jump_8",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_roll_back": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Dash_1",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_roll_back_air": {
+        "5": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Dash_1",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_roll_forward": {
+        "1": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Dash_1",
+                "dimension": 0
+            }
+        },
+        "27": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_6",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_roll_forward_air": {
+        "11": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Dash_1",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_roll_forward_end": {
+        "4": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_End_3",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_run_46": {
+        "8": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_9",
+                "dimension": 0
+            }
+        },
+        "18": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_3",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_sprint_47": {
+        "6": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_9",
+                "dimension": 0
+            }
+        },
+        "13": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_6",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_sprint_stopL": {
+        "5": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_End_3",
+                "dimension": 0
+            }
+        }
+    },
+    "char_h_sprint_stopR": {
+        "7": {
+            "0": {
+                "type": 1,
+                "audiotag": "Player_Footstep_End_3",
+                "dimension": 0
+            }
+        }
+    }
+}

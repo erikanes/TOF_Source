@@ -1,0 +1,44 @@
+{
+    "Vera" :
+    {
+        "Field" :
+        {
+            "path" : "../Bin/Resources/Audios/BGM/DLC_Vera_Music_55.mp3",
+            "volume" : 0.35,
+            "type" : 0,
+            "loop" : true
+        },
+
+        "MirrorCity" :
+        {
+            "path" : "../Bin/Resources/Audios/BGM/DLC_Vera_Music_9.mp3",
+            "volume" : 0.4,
+            "type" : 0,
+            "loop" : true
+        },
+
+        "MiniGame" :
+        {
+            "path" : "../Bin/Resources/Audios/BGM/DLC_Vera_Music_30.mp3",
+            "volume" : 0.4,
+            "type" : 0,
+            "loop" : true
+        },
+
+        "Rudolph" :
+        {
+            "path" : "../Bin/Resources/Audios/BGM/DLC_Vera_Music_21.mp3",
+            "volume" : 0.4,
+            "type" : 0,
+            "loop" : true
+        },
+
+        "Abyss" :
+        {
+            "path" : "../Bin/Resources/Audios/BGM/Candle_And_Shadow.mp3",
+            "volume" : 0.2,
+            "type" : 0,
+            "loop" : true
+        }
+    }
+}

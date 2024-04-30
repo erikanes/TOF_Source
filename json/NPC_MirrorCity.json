@@ -1,0 +1,411 @@
+{
+  "Lin": {
+    "type": 0,
+    "prototypeTag": "Prototype_GameObject_NPC_Lin",
+    "modelTag": "",
+    "position": [ 240.0, 0.0, 0.0 ],
+    "rotation": [ 0.0, 270.0, 0.0 ],
+    "walkVelocity": 0.0,
+    "runVelocity": 0.0,
+    "initAnimation": "",
+    "roaming": []
+  },
+
+  "Ruby": {
+    "type": 0,
+    "prototypeTag": "Prototype_GameObject_NPC_Ruby",
+    "modelTag": "",
+    "position": [ 236, 0.0, 20.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "walkVelocity": 0.0,
+    "runVelocity": 0.0,
+    "initAnimation": "",
+    "roaming": []
+  },
+
+  "Cook_Machine": {
+    "type": 0,
+    "prototypeTag": "Prototype_GameObject_NPC_Gear_Cook",
+    "modelTag": "",
+    "position": [ 250.0, 0.0, 29.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "walkVelocity": 0.0,
+    "runVelocity": 0.0,
+    "initAnimation": "",
+    "roaming": []
+  },
+
+  "NPC_021_Reception": {
+    "type": 1,
+    "prototypeTag": "Prototype_GameObject_NPC_021",
+    "modelTag": "Prototype_Component_Model_NPC_021",
+    "position": [ 50.0, 0.0, 0.0 ],
+    "rotation": [ 0.0, 270.0, 0.0 ],
+    "walkVelocity": 4.0,
+    "runVelocity": 10.0,
+    "initAnimation": "",
+    "roamtype": 0,
+    "roamCenter": [ 95.0, 0.0, 40.0 ],
+    "roamCenterRadius": 0.0,
+    "roaming": []
+  },
+
+  "NPC_021_Move1": {
+    "type": 1,
+    "prototypeTag": "Prototype_GameObject_NPC_021",
+    "modelTag": "Prototype_Component_Model_NPC_022",
+    "position": [ 60.0, 0.0, 40.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "walkVelocity": 4.0,
+    "runVelocity": 10.0,
+    "initAnimation": "",
+    "roamtype": 1,
+    "roamCenter": [ 70.0, 0.0, 40.0 ],
+    "roamCenterRadius": 7.0,
+    "roaming": [
+      [ 130.0, 0.0, 40.0 ],
+      [ 60.0, 0.0, 40.0 ]
+    ]
+  },
+
+  "NPC_Fuwa_Saki_Move": {
+    "type": 1,
+    "prototypeTag": "Prototype_GameObject_NPC_021",
+    "modelTag": "Prototype_Component_Model_NPC_Fuwa_Saki",
+    "position": [ 98.0, 0.0, -38.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "walkVelocity": 4.0,
+    "runVelocity": 10.0,
+    "initAnimation": "",
+    "roamtype": 1,
+    "roamCenter": [ 70.0, 0.0, 40.0 ],
+    "roamCenterRadius": 7.0,
+    "roaming": [
+      [ 98.0, 0.0, -38.0 ],
+      [ 138.0, 0.0, -38.0 ],
+      [ 115.0, 0.0, -49.0 ]
+    ]
+  },
+
+
+  "NpcShu160RightSecond01": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu160",
+    "position": [ 107.164505, 0.500079274, -56.4993935 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcShu160": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu161",
+    "position": [ 113.0, 0.500079274, -56.4993935 ],
+    "rotation": [ 0.0, 180.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcShu160Left01": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Vera005",
+    "position": [ 202.034134, -0.1, 69.827 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcShu160Left02": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu160",
+    "position": [ 207.933792, -0.15, 65.490 ],
+    "rotation": [ 0.0, 180.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcShu160Right03": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Vera005",
+    "position": [ 219.50, 0.0, -60.00 ],
+    "rotation": [ 0.0, 180.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+
+  "NpcEva": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Eva",
+    "position": [ 160, 0.0, 57.461 ],
+    "rotation": [ 0.0, -185.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_stand"
+  },
+
+  "NpcLarsen": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Larsen",
+    "position": [ 155.657, 0.0, 56.155 ],
+    "rotation": [ 0.0, 160.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ 0.0, 90.0, 0.0 ],
+    "playanimation": "npc_pe_stand"
+  },
+
+  "NPC023aStand": {
+    "type": 1,
+    "prototypeTag": "Prototype_GameObject_NPC_021",
+    "modelTag": "Prototype_Component_Model_NPC_023a",
+    "position": [ 204.682, 0.0, -54.851 ],
+    "rotation": [ 0.0, 170.0, 0.0 ],
+    "walkVelocity": 4.0,
+    "runVelocity": 10.0,
+    "initAnimation": "",
+    "roamtype": 0,
+    "roamCenter": [],
+    "roamCenterRadius": 0.0,
+    "roaming": []
+  },
+
+
+  "NPC023Stand": {
+    "type": 1,
+    "prototypeTag": "Prototype_GameObject_NPC_021",
+    "modelTag": "Prototype_Component_Model_NPC_023",
+    "position": [ 110.927, 0.0, 56.439 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "walkVelocity": 4.0,
+    "runVelocity": 10.0,
+    "initAnimation": "",
+    "roamtype": 0,
+    "roamCenter": [],
+    "roamCenterRadius": 0.0,
+    "roaming": []
+  },
+
+  "Cowell": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Cowell",
+    "position": [ 204.696, 0.0, -60.622 ],
+    "rotation": [ 0.0, 180.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, 0.0, 0.0 ],
+    "playanimation": "npc_shu_141_talk2"
+  },
+
+  "NpcDisplayRightSit01": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu160",
+    "position": [ 21.8953247, 0.0, -47.2769814 ],
+    "rotation": [ 0.0, 90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+
+  "NpcDisplayRightSit02": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Vera005",
+    "position": [ 26.9356480, 0.0, -53.7392540 ],
+    "rotation": [ 0.0, -90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+
+  "NpcDisplayLeftSit01": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu161",
+    "position": [ 24.0535564, 0.0, 57.5088501 ],
+    "rotation": [ 0.0, 90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcDisplayLeftSit02": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu160",
+    "position": [ 24.2686634, -0.15, 52.6 ],
+    "rotation": [ 0.0, -90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+
+
+  "NPC023aRightMove": {
+    "type": 1,
+    "prototypeTag": "Prototype_GameObject_NPC_021",
+    "modelTag": "Prototype_Component_Model_NPC_023a",
+    "position": [ 74.6632538, 0.123267524, -8.2723302 ],
+    "rotation": [ 0.0, 170.0, 0.0 ],
+    "walkVelocity": 2.0,
+    "runVelocity": 10.0,
+    "initAnimation": "",
+    "roamtype": 1,
+    "roamCenter": [],
+    "roamCenterRadius": 0.0,
+    "roaming": [
+      [ 74.6632538, 0.123267524, -8.27233028 ],
+      [ 161.748932, 0.120234288, -8.17831421 ]
+    ]
+  },
+
+  "NpcDisplayLeftLastSit01": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Vera005",
+    "position": [ 345.902496, -0.15, 39.2439766 ],
+    "rotation": [ 0.0, 160.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcDisplayLeftLastSit02": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu161",
+    "position": [ 346.798004, -0.15, 36.6767197 ],
+    "rotation": [ 0.0, 160.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcDisplayLeftLastSit03": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu160",
+    "position": [ 369.501160, 0.0, 19.0456352 ],
+    "rotation": [ 0.0, 100.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcDisplayRightLastSit01": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu160",
+    "position": [ 353.422302, 0.0, -24.4518318 ],
+    "rotation": [ 0.0, 230.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+
+  "NpcDisplayRightLastSit02": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu152",
+    "position": [ 346.281952, -0.15, -37.5675926 ],
+    "rotation": [ 0.0, 195.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcDisplayRightFrontVendingMachine": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_023a",
+    "position": [ 168.6, 0.0, -72.150 ],
+    "rotation": [ 0.0, 90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_clean"
+  },
+
+  "NpcDisplayLeftReception": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Eva",
+    "position": [ 296.735901, 0.00127490202, 54.2371445 ],
+    "rotation": [ 0.0, 90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_stand"
+  },
+
+  "NpcDisplayRightReception": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_023",
+    "position": [ 296.109558, 0.00127568538, -50.2132645 ],
+    "rotation": [ 0.0, -90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_stand"
+  },
+
+  "NpcDisplayLeftReceptionTalk": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Cowell",
+    "position": [ 295.542, 0.00127568538, 47.772 ],
+    "rotation": [ 0.0, -90.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_shu_141_talk1"
+  },
+
+  "NpcDisplayLeftCenterSit": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu160",
+    "position": [ 112.90, 0.3, 63.545 ],
+    "rotation": [ 0.0, 180.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_sit"
+  },
+
+  "NpcDisplayRightTalkFrontVendingMachine01": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Vera005",
+    "position": [ 156.647, 0.0, -48.187 ],
+    "rotation": [ 0.0, -20.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_stand"
+  },
+
+
+  "NpcDisplayRightTalkFrontVendingMachine02": {
+    "type": 2,
+    "prototypeTag": "Prototype_GameObject_NPC_Display",
+    "modelTag": "Prototype_Component_Model_NPC_Shu152",
+    "position": [ 158.658, 0.1, -47.450 ],
+    "rotation": [ 0.0, 170.0, 0.0 ],
+    "pivotscale": [ 0.025, 0.025, 0.025 ],
+    "pivotrotation": [ -90.0, -90.0, 0.0 ],
+    "playanimation": "npc_pe_quarrel1"
+  }
+
+}
